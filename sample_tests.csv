@@ -1,0 +1,6 @@
+test_type,result,date,latitude,longitude
+Bacterial / E. coli,Positive,2026-09-20,10.0010,76.3010
+Bacterial / E. coli,Positive,2026-09-20,10.0030,76.3020
+Bacterial / E. coli,Positive,2026-09-21,10.0040,76.3005
+Bacterial / E. coli,Negative,2026-09-21,10.0200,76.3200
+Turbidity,Negative,2026-09-22,10.0100,76.3100
